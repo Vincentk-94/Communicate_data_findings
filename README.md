@@ -7,14 +7,12 @@ A slide deck was then created to follow some of the key insights.
 
 ## Dataset
 
-This dataset comes from the Bureau of Transportation Statistics: https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp 
-The dataset can be downloaded at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7. 
+- This dataset comes from the Bureau of Transportation Statistics: https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp 
+- The dataset can be downloaded at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7
+
 It contains data about flights from USA between January - April 2008. On-time performance of domestic flights by large carriers are included. Information includes the number of on-time, delayed, cancelled and diverted flights.
 
-
-
 Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
 
 ## Summary of Findings
 
@@ -34,8 +32,6 @@ Provide basic information about your dataset in this section. If you selected yo
 - April has the lowest proportion of cancelled flights whilst February is the worst. 
 - Due to the low number of diversions, there are no obvious trends with comparing days of the week or month with diversion rates.
 - The carrier does significantly affect the proportion of delay. WN can have over 65% of their flights delayed whilst 
-
-
 
 ## Key Insights for Presentation
 
