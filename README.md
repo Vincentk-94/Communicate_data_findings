@@ -29,9 +29,11 @@ Provide basic information about your dataset in this section. If you selected yo
 - Most flights are able to make up time during the flight to reduce lateness.
 - North of USA has the highest proportion of cancellations, diversion rates were higher at more isolated airports.
 - The order for most impacting to least impacting delay is: Weather > Late aircraft > Carrier > NAS > Security.
-- April has the lowest proportion of cancelled flights whilst February is the worst. 
-- Due to the low number of diversions, there are no obvious trends with comparing days of the week or month with diversion rates.
-- The carrier does significantly affect the proportion of delay. WN can have over 65% of their flights delayed whilst 
+- April has the lowest proportion of cancelled flights whilst February has the most. 
+- Due to the low number of diversions, there are no obvious trends when comparing days of the week or month with diversion rates.
+- The carrier does significantly affect the proportion of delay. WN can have over 65% of their flights delayed whilst HA and AQ have the least. 
+- Fridays have the most delays and the days with the lowest amount of delays are Tuesdays and Wednesdays.
+- Carriers F9, HA and AQ are the most punctual, OH prefers departing at 5 minute intervals.
 
 ## Key Insights for Presentation
 
