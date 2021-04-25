@@ -45,7 +45,7 @@ Provide basic information about your dataset in this section. If you selected yo
 
 ## Key Insights for Presentation
 
-- The main reason for cancellations are carrier and weather.
+- The main reason for cancellations are carrier and weather. Cancellations due to NAS are half as likely whilst security cancellations are extremely rare.
 - 58.4% do depart on time but 41.6% are delayed.
 - Carriers WN and CO have the highest proportion of delays whilst AQ and HA have the lowest.
 - Most flights depart on time but most flights arrive early, this suggests that flights can makeup time during the flight.
