@@ -15,12 +15,12 @@ It contains data about flights from USA between January - April 2008. On-time pe
 Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
 
 ## Files included
-- **2008 Flight Delays - Project** - Report containing exploratory data analysis.
-- **2008_Flight_delays_Slide_Deck** - Presentation containing expanatory data analysis.
-- **variable_descriptions.csv** - csv containing variable descriptions.
-- **airports.csv** - csv containing basic information about airports in USA.
-- **carriers.csv** - csv containing basic information about carriers in USA.
-- **plane-data.csv** - csv containing basic information about planes by tail number.
+- `2008 Flight Delays - Project` - Report containing exploratory data analysis.
+- `2008_Flight_delays_Slide_Deck` - Presentation containing expanatory data analysis.
+- `variable_descriptions.csv` - csv containing variable descriptions.
+- `airports.csv` - csv containing basic information about airports in USA.
+- `carriers.csv` - csv containing basic information about carriers in USA.
+- `plane-data.csv` - csv containing basic information about planes by tail number.
 
 ## Summary of Findings
 
